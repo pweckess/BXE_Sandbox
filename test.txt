@@ -5,3 +5,5 @@ And another line added.
 Added a third line of code.
 
 Add a line of code in my local version of the repo.
+
+An unstaged line of text. After staging, appended line with this text.
